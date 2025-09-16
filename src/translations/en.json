@@ -1,0 +1,40 @@
+{
+  "common": {
+    "harithaSahayak": "Haritha Sahayak",
+    "greenAssistant": "Green Assistant",
+    "loading": "Loading...",
+    "send": "Send",
+    "back": "Back",
+    "expertHelp": "Expert Help",
+    "selectLanguage": "Select your preferred language:",
+    "startQuery": "Start Your Query",
+    "voiceTextSupport": "Voice & Text Support",
+    "cropAnalysis": "Crop Analysis", 
+    "expertGuidance": "Expert Guidance"
+  },
+  "landing": {
+    "title": "Haritha Sahayak",
+    "subtitle": "Green Assistant",
+    "description": "Your AI-powered farming companion providing expert guidance in your native language. Get personalized advice for crops, weather, pests, and government schemes.",
+    "instantGuidance": "Get instant agricultural guidance in your language"
+  },
+  "advisory": {
+    "welcomeMessage": "Welcome to Haritha Sahayak! I'm here to help you with all your farming questions. You can ask me about crops, weather, pests, diseases, government schemes, and more. How can I assist you today?",
+    "placeholder": "Ask about crops, weather, pests, diseases, or government schemes...",
+    "analyzing": "Analyzing your query...",
+    "querySent": "Query Sent",
+    "processingQuery": "Processing your agricultural query...",
+    "voiceInput": "Voice Input",
+    "voiceInputDescription": "Voice input feature will be implemented with Web Speech API",
+    "imageUpload": "Image Upload", 
+    "imageAnalysisDescription": "Image analysis feature will be implemented for crop identification",
+    "expertContact": "Expert Contact",
+    "connectingExpert": "Connecting you with a human agricultural expert...",
+    "quickActions": {
+      "cropDisease": "Crop Disease",
+      "weatherInfo": "Weather Info", 
+      "govSchemes": "Government Schemes",
+      "pestControl": "Pest Control"
+    }
+  }
+}
